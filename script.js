@@ -5,7 +5,7 @@ const alternatives = [
   {text:"Vamos, atrévete a un sí", images:"images/cat-04.gif"},
   {text:"Que el miedo no te detenga", images:"images/cat-05.gif"},
 ]
-const ohyes = {text:"Te amé mucho ayer, te amo mucho más hoy y mañana te amaré más que nunca, amarte es de los mejores regalos que esta vida me a dado. ✨❤️ Gracias por aceptar mi Diosa preciosa ❤️✨", images:"images/giane-yes.gif"}
+const ohyes = {text:"Te amé mucho ayer, te amo más hoy y mañana te amaré como nunca, amarte es de los mejores regalos que esta vida me a dado.  ✨❤️ Gracias por aceptar mi Diosa preciosa ❤️✨", images:"images/giane-yes.gif"}
 const cat = document.querySelector('.cat')
 const text = document.querySelector('.text')
 const buttons = document.querySelectorAll('.button')
